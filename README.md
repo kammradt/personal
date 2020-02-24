@@ -13,7 +13,7 @@
 
 👤 **Vinicius Kammradt**
 
-* Twitter: [@kammradt](https://kammradt.com.br)
+* Twitter: [@kammradt](https://twitter.com/kammzinho)
 * Github: [@kammradt](https://github.com/kammradt)
 * LinkedIn: [@vinicius-kammradt](https://linkedin.com/in/vinicius-kammradt)
 
