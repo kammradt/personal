@@ -7,7 +7,7 @@
 
 > My personal page :rocket:
 
-### 🏠 [Homepage](https://kammradt.com.br)
+### 🏠 [Homepage](https://kammradt.now.sh)
 
 ## Author
 
